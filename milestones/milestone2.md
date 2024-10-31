@@ -10,18 +10,18 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [ ] In `planning/entity_relationship_diagram.md`: add the entity relationship diagram you developed for your database
 - [ ] Prepare your three-minute pitch presentation, to be presented during Unit 7 (the next unit)
   - [ ] You do **not** need to submit any materials in advance of your pitch
-- [ ] In this document, complete the **Reflection** section below
+- [x] In this document, complete the **Reflection** section below
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Talking to my TF about issues communicating with my teammate, as I haven't been able to reach out to them. Asides from that, the planning portion and noticing how the lab can help me out in my preparation.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Communicating and delegating tasks to each other, as I was unable to reach out to my groupmates about potential solutions.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+As of now, more leniency on deadlines as I have reached out to my groupmates and advisors, but haven't heard back from them yet.
